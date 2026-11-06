@@ -1,0 +1,1674 @@
+{
+ "medido": {
+  "dominio": "vicedomini.es",
+  "fecha": "06/11/2026",
+  "fuente_urls": "sitemap (https://vicedomini.es/sitemap_index.xml)",
+  "robots": {
+   "existe": true,
+   "bloqueados": [],
+   "google_ok": true
+  },
+  "ssl": {
+   "valido": true,
+   "dias": 52,
+   "redirige_https": true,
+   "hsts": true,
+   "error": ""
+  },
+  "paginas": [
+   {
+    "url": "https://vicedomini.es/",
+    "path": "/",
+    "es_articulo": false,
+    "title": "Catering Pizzas | Mario Vicedomini",
+    "description": "Catering de Pizzas Napolitanas ✅ Masa Artesanal, Ingredientes Frescos y Horno de Leña. Un sabor Inigualable para tu Evento. ¡Reserva! ☎641419892",
+    "lang": "es",
+    "charset": true,
+    "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+    "canonical": "https://vicedomini.es/",
+    "h1": [
+     "Catering de pizzas napolitanas en Madrid"
+    ],
+    "saltos": [],
+    "palabras": 821,
+    "pct_negrita": 1.9,
+    "h2_total": 7,
+    "h2_directas": 1,
+    "preguntas": 1,
+    "tablas": 0,
+    "imagenes": [
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro-300x196.png",
+      "alt": "logo grande",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/elementor/thumbs/921A7426-Editar1-1-1-rl4coosgw7hk5375j1t99f0ite0rbsiyhcb8w4lmb4.jpg",
+      "alt": "pizzero cocinando",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/elementor/thumbs/Screenshot_20240116_135925_Photos-qj7tci6ffw70ur8f4juwumy97sla0ekwv3wf6qhlbk.jpg",
+      "alt": "charla1",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/elementor/thumbs/3-qrv363bjpziaaeath2cfm4su002ztvog76io4t2lv4.jpg",
+      "alt": "evento 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/10/IMG_9817-1-683x1024.jpg",
+      "alt": "amasando3",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/10/921A7426-Editar1-scaled.jpg",
+      "alt": "evento-vicedomini",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "alt": "Google",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 1",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 2",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 3",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 5",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "alt": "Google",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 1",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 2",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 3",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 5",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "alt": "Google",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 1",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 2",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 3",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 5",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "alt": "Google",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 1",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 2",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 3",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 5",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "alt": "Google",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 1",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 2",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 3",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 5",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "alt": "Google",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 1",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 2",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 3",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 5",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "alt": "Google",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 1",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 2",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 3",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 5",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "alt": "Google",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 1",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 2",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 3",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 5",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/icon.svg",
+      "alt": "Google",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 1",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 2",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 3",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://cdn.trustindex.io/assets/platform/Google/star/f.svg",
+      "alt": "Google star 5",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/10/IMG_9839-683x1024.jpg",
+      "alt": "La mejor pizzería napolitana de Madrid. 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro3.png",
+      "alt": "logo blanco 3",
+      "sin_alt": false,
+      "decorativa": false
+     }
+    ],
+    "mixto": [],
+    "enlaces_internos": [
+     "https://vicedomini.es/",
+     "https://vicedomini.es/pizza-eventos/",
+     "https://vicedomini.es/asesoria-gastronomica-pizzerias/",
+     "https://vicedomini.es/curso-pizzero-profesional-madrid/",
+     "https://vicedomini.es/taller-pizza/",
+     "https://vicedomini.es/sobre-mi/",
+     "https://vicedomini.es/blog/",
+     "https://vicedomini.es/curso-pizzero/",
+     "https://vicedomini.es/asesor-gastronomico/"
+    ],
+    "enlaces_externos": [
+     "https://instagram.com/mario.vicedomini_pizza?igshid=YmMyMTA2M2Y=",
+     "https://www.tiktok.com/@mariovicedomini_pizza?_t=8XZI8qg4a62&_r=1%20",
+     "https://wa.me/+34641419892"
+    ],
+    "anclas_genericas": [
+     "Ver más",
+     "Ver más",
+     "Ver más"
+    ],
+    "schema_tipos": [
+     "BreadcrumbList",
+     "EntryPoint",
+     "GeoCoordinates",
+     "ImageObject",
+     "ListItem",
+     "LocalBusiness",
+     "OpeningHoursSpecification",
+     "Organization",
+     "PostalAddress",
+     "PropertyValueSpecification",
+     "ReadAction",
+     "SearchAction",
+     "WebPage",
+     "WebSite"
+    ],
+    "schema_sameas": true,
+    "schema_errores": 0,
+    "autores": []
+   },
+   {
+    "url": "https://vicedomini.es/pizza-eventos/",
+    "path": "/pizza-eventos/",
+    "es_articulo": false,
+    "title": "Pizza para Eventos | Mario Vicedomini",
+    "description": "Descubre la Mejor Pizza Para Eventos en Vicedomini. ✅ Ideal para Fiestas, Bodas y Reuniones. ¡Sorprende a Tus Invitados! ☎641419892",
+    "lang": "es",
+    "charset": true,
+    "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+    "canonical": "https://vicedomini.es/pizza-eventos/",
+    "h1": [
+     "La Experiencia Vicedomini: Auténtica pizza para eventos allá donde estés"
+    ],
+    "saltos": [],
+    "palabras": 1240,
+    "pct_negrita": 12.2,
+    "h2_total": 10,
+    "h2_directas": 3,
+    "preguntas": 1,
+    "tablas": 0,
+    "imagenes": [
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro-300x196.png",
+      "alt": "logo grande",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/10/921A7426-Editar-683x1024.jpg",
+      "alt": "evento2.0",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/10/IMG_9804-683x1024.jpg",
+      "alt": "dar pizza",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2025/10/cateringpizza-e1669638038691-2-1-1-min-1024x682.png",
+      "alt": "pizza-eventos",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/11/cateringconentrantes-1-e1669718546985-1024x715.png",
+      "alt": "ingredientes",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/10/IMG_9839-683x1024.jpg",
+      "alt": "La mejor pizzería napolitana de Madrid. 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/10/IMG_9839-683x1024.jpg",
+      "alt": "La mejor pizzería napolitana de Madrid. 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro3.png",
+      "alt": "logo blanco 3",
+      "sin_alt": false,
+      "decorativa": false
+     }
+    ],
+    "mixto": [],
+    "enlaces_internos": [
+     "https://vicedomini.es/",
+     "https://vicedomini.es/pizza-eventos/",
+     "https://vicedomini.es/asesoria-gastronomica-pizzerias/",
+     "https://vicedomini.es/curso-pizzero-profesional-madrid/",
+     "https://vicedomini.es/taller-pizza/",
+     "https://vicedomini.es/sobre-mi/",
+     "https://vicedomini.es/blog/"
+    ],
+    "enlaces_externos": [
+     "https://instagram.com/mario.vicedomini_pizza?igshid=YmMyMTA2M2Y=",
+     "https://www.tiktok.com/@mariovicedomini_pizza?_t=8XZI8qg4a62&_r=1%20",
+     "https://wa.me/+34641419892"
+    ],
+    "anclas_genericas": [],
+    "schema_tipos": [
+     "BreadcrumbList",
+     "EntryPoint",
+     "GeoCoordinates",
+     "ImageObject",
+     "ListItem",
+     "LocalBusiness",
+     "OpeningHoursSpecification",
+     "Organization",
+     "PostalAddress",
+     "PropertyValueSpecification",
+     "ReadAction",
+     "SearchAction",
+     "WebPage",
+     "WebSite"
+    ],
+    "schema_sameas": true,
+    "schema_errores": 0,
+    "autores": []
+   },
+   {
+    "url": "https://vicedomini.es/asesoria-gastronomica-pizzerias/",
+    "path": "/asesoria-gastronomica-pizzerias/",
+    "es_articulo": false,
+    "title": "Asesor Gastronómico en Madrid | Mario Vicedomini",
+    "description": "Asesor Gastronómico Experto en Pizzas Artesanales ✅Formación Personalizada y Asesoría Integral. ¡Contáctanos hoy! ☎️641419892",
+    "lang": "es",
+    "charset": true,
+    "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+    "canonical": "https://vicedomini.es/asesoria-gastronomica-pizzerias/",
+    "h1": [
+     "Consultoría y Asesoría Gastronómica para Pizzerías"
+    ],
+    "saltos": [],
+    "palabras": 1556,
+    "pct_negrita": 3.1,
+    "h2_total": 15,
+    "h2_directas": 7,
+    "preguntas": 2,
+    "tablas": 0,
+    "imagenes": [
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro-300x196.png",
+      "alt": "logo grande",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/03/a37aaf49-e8e6-4177-b63e-e9e4fb3b6a7e-682x1024.jpeg",
+      "alt": "Mario Vicedomini trabajando una masa de pizza en una de sus asesorías gastronómicas.",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/03/IMG_6801-768x978.jpg",
+      "alt": "",
+      "sin_alt": false,
+      "decorativa": true
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/03/1e82012b-6741-4f58-b75b-b98fc10f949a-608x1024.jpeg",
+      "alt": "",
+      "sin_alt": false,
+      "decorativa": true
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/03/f72c7640-5b4e-4998-b299-3a2bdf25728a.jpeg",
+      "alt": "PArticipantes de la asesoría gastronómica especializada en pizza de Vicedomini.",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/03/IMG_6800-775x1024.jpg",
+      "alt": "Mario Vicedomini impartiendo una asesoría especializada en pizzerías.",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/10/1vicedomini-mario.jpg",
+      "alt": "leña horno",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/04/IMG_6803-1024x939.webp",
+      "alt": "Mario Vicedomini pizzería",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/03/IMG_9804-1-889x1024.jpg",
+      "alt": "",
+      "sin_alt": false,
+      "decorativa": true
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/10/IMG_9839-683x1024.jpg",
+      "alt": "La mejor pizzería napolitana de Madrid. 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro3.png",
+      "alt": "logo blanco 3",
+      "sin_alt": false,
+      "decorativa": false
+     }
+    ],
+    "mixto": [],
+    "enlaces_internos": [
+     "https://vicedomini.es/",
+     "https://vicedomini.es/pizza-eventos/",
+     "https://vicedomini.es/asesoria-gastronomica-pizzerias/",
+     "https://vicedomini.es/curso-pizzero-profesional-madrid/",
+     "https://vicedomini.es/taller-pizza/",
+     "https://vicedomini.es/sobre-mi/",
+     "https://vicedomini.es/blog/",
+     "https://vicedomini.es/2025/11/20/food-cost/",
+     "https://vicedomini.es/pizzeria-rentable/",
+     "https://vicedomini.es/2024/09/18/estilos-tipos-pizza/",
+     "https://vicedomini.es/2025/10/22/cuanto-factura-pizzeria/",
+     "https://vicedomini.es/2025/09/15/tiene-sentido-tener-dos-tipos-de-hornos/"
+    ],
+    "enlaces_externos": [
+     "https://instagram.com/mario.vicedomini_pizza?igshid=YmMyMTA2M2Y=",
+     "https://www.tiktok.com/@mariovicedomini_pizza?_t=8XZI8qg4a62&_r=1%20",
+     "https://web.whatsapp.com/send?phone=34641419892",
+     "https://wa.me/+34641419892"
+    ],
+    "anclas_genericas": [],
+    "schema_tipos": [
+     "BreadcrumbList",
+     "EntryPoint",
+     "GeoCoordinates",
+     "ImageObject",
+     "ListItem",
+     "LocalBusiness",
+     "OpeningHoursSpecification",
+     "Organization",
+     "PostalAddress",
+     "PropertyValueSpecification",
+     "ReadAction",
+     "SearchAction",
+     "WebPage",
+     "WebSite"
+    ],
+    "schema_sameas": true,
+    "schema_errores": 0,
+    "autores": []
+   },
+   {
+    "url": "https://vicedomini.es/curso-pizzero-profesional-madrid/",
+    "path": "/curso-pizzero-profesional-madrid/",
+    "es_articulo": false,
+    "title": "Curso de Pizzero Profesional en Madrid | Vicedomini Pizza Chef",
+    "description": "¿Quieres ser pizzero profesional? Aprende el arte de la pizza en Madrid con nuestro curso práctico y personalizado. ¡Accede a nuestra bolsa de empleo!",
+    "lang": "es",
+    "charset": true,
+    "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+    "canonical": "https://vicedomini.es/curso-pizzero-profesional-madrid/",
+    "h1": [
+     "Curso de Pizzero Profesional en Madrid: Domina el Arte de la Pizza"
+    ],
+    "saltos": [
+     "H1→H3"
+    ],
+    "palabras": 544,
+    "pct_negrita": 16.0,
+    "h2_total": 11,
+    "h2_directas": 6,
+    "preguntas": 1,
+    "tablas": 0,
+    "imagenes": [
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro-300x196.png",
+      "alt": "logo grande",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/elementor/thumbs/IMG_9902-scaled-qx3dhx45o02c2kpyvp253wfa7r70m71ukkubja57xs.jpg",
+      "alt": "vicedomini2",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/elementor/thumbs/z-IMG_9907-scaled-qx3dmsvz60qydnmndb1dk62hat4nllfnkqu4a0wlm8.jpg",
+      "alt": "vicedomini-black",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/09/11-vicedomini-pizza.jpg",
+      "alt": "pizza-perfecta",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/elementor/thumbs/IMG_9816-scaled-qx3eam4saxcgi11gbll4q5qv27reljyuulsxydljzk.jpg",
+      "alt": "vicedomini-amasando",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/09/Grosso-Napoletano_Logotipo.jpg",
+      "alt": "grosso-napoletano",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/09/Toto-e-peppino_logotipo.jpg",
+      "alt": "toto",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/09/La-tirana_logo.jpg",
+      "alt": "la tirana",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/09/pizzeria-cuadrado_logo.jpg",
+      "alt": "taglio&bar",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/09/NAP_logo.jpg",
+      "alt": "nap",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/10/IMG_9839-683x1024.jpg",
+      "alt": "La mejor pizzería napolitana de Madrid. 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro3.png",
+      "alt": "logo blanco 3",
+      "sin_alt": false,
+      "decorativa": false
+     }
+    ],
+    "mixto": [],
+    "enlaces_internos": [
+     "https://vicedomini.es/",
+     "https://vicedomini.es/pizza-eventos/",
+     "https://vicedomini.es/asesoria-gastronomica-pizzerias/",
+     "https://vicedomini.es/curso-pizzero-profesional-madrid/",
+     "https://vicedomini.es/taller-pizza/",
+     "https://vicedomini.es/sobre-mi/",
+     "https://vicedomini.es/blog/"
+    ],
+    "enlaces_externos": [
+     "https://instagram.com/mario.vicedomini_pizza?igshid=YmMyMTA2M2Y=",
+     "https://www.tiktok.com/@mariovicedomini_pizza?_t=8XZI8qg4a62&_r=1%20",
+     "https://wa.me/+34641419892"
+    ],
+    "anclas_genericas": [],
+    "schema_tipos": [
+     "BreadcrumbList",
+     "EntryPoint",
+     "GeoCoordinates",
+     "ImageObject",
+     "ListItem",
+     "LocalBusiness",
+     "OpeningHoursSpecification",
+     "Organization",
+     "PostalAddress",
+     "PropertyValueSpecification",
+     "ReadAction",
+     "SearchAction",
+     "WebPage",
+     "WebSite"
+    ],
+    "schema_sameas": true,
+    "schema_errores": 0,
+    "autores": []
+   },
+   {
+    "url": "https://vicedomini.es/taller-pizza/",
+    "path": "/taller-pizza/",
+    "es_articulo": false,
+    "title": "Taller de la Pizza en Madrid | Mario Vicedomini",
+    "description": "Únete a Nuestro Taller de la Pizza en Madrid y Descubre los Secretos para Crear la Pizza Perfecta ✅Para Todo el Mundo ¡Reserva! ☎️641419892",
+    "lang": "es",
+    "charset": true,
+    "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+    "canonical": "https://vicedomini.es/taller-pizza/",
+    "h1": [
+     "Taller de Pizza en Madrid"
+    ],
+    "saltos": [],
+    "palabras": 453,
+    "pct_negrita": 39.5,
+    "h2_total": 8,
+    "h2_directas": 6,
+    "preguntas": 0,
+    "tablas": 0,
+    "imagenes": [
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro-300x196.png",
+      "alt": "logo grande",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/elementor/thumbs/catering-1-e1729762131998-qw0vrm51ddi7mq1mj7qx1qym5fcb8nu0d9lnym4cao.jpg",
+      "alt": "noños-pizza",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/10/IMG_9839-683x1024.jpg",
+      "alt": "La mejor pizzería napolitana de Madrid. 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro3.png",
+      "alt": "logo blanco 3",
+      "sin_alt": false,
+      "decorativa": false
+     }
+    ],
+    "mixto": [],
+    "enlaces_internos": [
+     "https://vicedomini.es/",
+     "https://vicedomini.es/pizza-eventos/",
+     "https://vicedomini.es/asesoria-gastronomica-pizzerias/",
+     "https://vicedomini.es/curso-pizzero-profesional-madrid/",
+     "https://vicedomini.es/taller-pizza/",
+     "https://vicedomini.es/sobre-mi/",
+     "https://vicedomini.es/blog/"
+    ],
+    "enlaces_externos": [
+     "https://instagram.com/mario.vicedomini_pizza?igshid=YmMyMTA2M2Y=",
+     "https://www.tiktok.com/@mariovicedomini_pizza?_t=8XZI8qg4a62&_r=1%20",
+     "https://wa.me/+34641419892"
+    ],
+    "anclas_genericas": [],
+    "schema_tipos": [
+     "BreadcrumbList",
+     "EntryPoint",
+     "GeoCoordinates",
+     "ImageObject",
+     "ListItem",
+     "LocalBusiness",
+     "OpeningHoursSpecification",
+     "Organization",
+     "PostalAddress",
+     "PropertyValueSpecification",
+     "ReadAction",
+     "SearchAction",
+     "WebPage",
+     "WebSite"
+    ],
+    "schema_sameas": true,
+    "schema_errores": 0,
+    "autores": []
+   },
+   {
+    "url": "https://vicedomini.es/sobre-mi/",
+    "path": "/sobre-mi/",
+    "es_articulo": false,
+    "title": "Sobre Mí: Chef de Pizzas | Mario Vicedomini",
+    "description": "Conoce a Mario Vicedomini, Chef de Pizzas en Madrid ✅Amplia Experiencia en la Auténtica Pizza Napolitana. Conoce Mi historia ☎️641419892",
+    "lang": "es",
+    "charset": true,
+    "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+    "canonical": "https://vicedomini.es/sobre-mi/",
+    "h1": [
+     "Pizzero Chef Profesional en España: Mario Vicedomini"
+    ],
+    "saltos": [],
+    "palabras": 266,
+    "pct_negrita": 22.2,
+    "h2_total": 3,
+    "h2_directas": 2,
+    "preguntas": 0,
+    "tablas": 0,
+    "imagenes": [
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro-300x196.png",
+      "alt": "logo grande",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2025/01/Screenshot_20191124-220037-1-1024x1004.png",
+      "alt": "La mejor pizza de Madrid con Vicedomini Pizza Chef.",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2025/01/C52C58BB-AEFD-4A5C-B6FE-3485B39B09A4.jpg",
+      "alt": "Mario Vicedomini, experto pizzero en Madrid.",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/elementor/thumbs/Screenshot_20240117_123747_Photos-qj7tmx7vcaaopxmarx6cwjj20zxbazgq91607bssao.jpg",
+      "alt": "premio",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/09/DE37F131-3DAA-4948-8802-5FB1CBDA4757-scaled.webp",
+      "alt": "Chef de Pizza Mario Vicedomini con futbolistas como Julián Alvarez, Nahuel Molina, Giuliano Simeone",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/09/D9A17465-F773-468A-85F9-0C795AF1904F.webp",
+      "alt": "Chef de Pizza Mario Vicedomini y Miguel Herrán",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/09/IMG_4493-scaled.webp",
+      "alt": "Chef de Pizza Mario Vicedomini con futbolistas Facundo Buonanotte, Julián Álvarez, Giuliano Simeone",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/09/bf8aa7de-bbf4-4b08-8ee6-95f82f1b8af5-scaled.webp",
+      "alt": "Chef de Pizza Mario Vicedomini",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/09/IMG_7339-scaled.webp",
+      "alt": "Chef Mario Vicedomini haciendo pizza al aire libre",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/09/D33831E6-2D2C-469C-BB34-DF44CCBBF7A1-scaled.webp",
+      "alt": "Chef de Pizza Mario Vicedomini y futbolista Julián Álvarez",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/09/AC018CE9-2AF2-4483-B322-AE9ECAB24D30-scaled.webp",
+      "alt": "Chef de Pizza Mario Vicedomini con futbolista argentino Giuliano Simeone",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2024/10/IMG_9839-683x1024.jpg",
+      "alt": "La mejor pizzería napolitana de Madrid. 4",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro3.png",
+      "alt": "logo blanco 3",
+      "sin_alt": false,
+      "decorativa": false
+     }
+    ],
+    "mixto": [],
+    "enlaces_internos": [
+     "https://vicedomini.es/",
+     "https://vicedomini.es/pizza-eventos/",
+     "https://vicedomini.es/asesoria-gastronomica-pizzerias/",
+     "https://vicedomini.es/curso-pizzero-profesional-madrid/",
+     "https://vicedomini.es/taller-pizza/",
+     "https://vicedomini.es/sobre-mi/",
+     "https://vicedomini.es/blog/"
+    ],
+    "enlaces_externos": [
+     "https://instagram.com/mario.vicedomini_pizza?igshid=YmMyMTA2M2Y=",
+     "https://www.tiktok.com/@mariovicedomini_pizza?_t=8XZI8qg4a62&_r=1%20",
+     "https://wa.me/+34641419892"
+    ],
+    "anclas_genericas": [],
+    "schema_tipos": [
+     "BreadcrumbList",
+     "EntryPoint",
+     "GeoCoordinates",
+     "ImageObject",
+     "ListItem",
+     "LocalBusiness",
+     "OpeningHoursSpecification",
+     "Organization",
+     "PostalAddress",
+     "PropertyValueSpecification",
+     "ReadAction",
+     "SearchAction",
+     "WebPage",
+     "WebSite"
+    ],
+    "schema_sameas": true,
+    "schema_errores": 0,
+    "autores": []
+   },
+   {
+    "url": "https://vicedomini.es/blog/",
+    "path": "/blog/",
+    "es_articulo": false,
+    "title": "Blog Mario Vicedomini | Pizza Italiana: Recetas y Secretos",
+    "description": "Descubre Recetas, Historias y Consejos sobre la Pizza Italiana ✅ Tradición, Secretos y Pasión por el Autentico Sabor Napolitano. ¡Entra Ahora!",
+    "lang": "es",
+    "charset": true,
+    "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+    "canonical": "https://vicedomini.es/blog/",
+    "h1": [
+     "BLOG MARIO VICEDOMINI"
+    ],
+    "saltos": [],
+    "palabras": 363,
+    "pct_negrita": 0.0,
+    "h2_total": 6,
+    "h2_directas": 6,
+    "preguntas": 1,
+    "tablas": 0,
+    "imagenes": [
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro-300x196.png",
+      "alt": "logo grande",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2026/01/IMG_6073-300x212.jpeg",
+      "alt": "pizza de verduras sobre tabla",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2025/12/IMG_5890-300x209.jpeg",
+      "alt": "modelos de negocio pizzeria",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2025/11/IMG_5578-1-300x211.jpeg",
+      "alt": "optimizar el food cost",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2025/10/el-chef-esta-trabajando-en-una-cocina-muy-bien-decorada-preparando-pasteles-para-pizza-1-300x200.jpg",
+      "alt": "cuanto factura una pizzeria",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2025/09/IMG_4800-300x200.jpeg",
+      "alt": "tipos de hornos",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2025/08/IMG_4515-300x205.jpeg",
+      "alt": "estación de trabajo",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro3.png",
+      "alt": "logo blanco 3",
+      "sin_alt": false,
+      "decorativa": false
+     }
+    ],
+    "mixto": [],
+    "enlaces_internos": [
+     "https://vicedomini.es/",
+     "https://vicedomini.es/pizza-eventos/",
+     "https://vicedomini.es/asesoria-gastronomica-pizzerias/",
+     "https://vicedomini.es/curso-pizzero-profesional-madrid/",
+     "https://vicedomini.es/taller-pizza/",
+     "https://vicedomini.es/sobre-mi/",
+     "https://vicedomini.es/blog/",
+     "https://vicedomini.es/2026/01/14/focaccias-romana-y-pinza/",
+     "https://vicedomini.es/2025/12/22/modelos-negocio-pizzerias-espana-2026/",
+     "https://vicedomini.es/2025/11/20/food-cost/",
+     "https://vicedomini.es/2025/10/22/cuanto-factura-pizzeria/",
+     "https://vicedomini.es/2025/09/15/tiene-sentido-tener-dos-tipos-de-hornos/",
+     "https://vicedomini.es/2025/08/11/estacion-trabajo/",
+     "https://vicedomini.es/blog/2/"
+    ],
+    "enlaces_externos": [
+     "https://instagram.com/mario.vicedomini_pizza?igshid=YmMyMTA2M2Y=",
+     "https://www.tiktok.com/@mariovicedomini_pizza?_t=8XZI8qg4a62&_r=1%20"
+    ],
+    "anclas_genericas": [],
+    "schema_tipos": [
+     "BreadcrumbList",
+     "EntryPoint",
+     "GeoCoordinates",
+     "ImageObject",
+     "ListItem",
+     "LocalBusiness",
+     "OpeningHoursSpecification",
+     "Organization",
+     "PostalAddress",
+     "PropertyValueSpecification",
+     "ReadAction",
+     "SearchAction",
+     "WebPage",
+     "WebSite"
+    ],
+    "schema_sameas": true,
+    "schema_errores": 0,
+    "autores": []
+   },
+   {
+    "url": "https://vicedomini.es/2025/10/22/cuanto-factura-pizzeria/",
+    "path": "/2025/10/22/cuanto-factura-pizzeria/",
+    "es_articulo": true,
+    "title": "¿Cuánto Factura una Pizzería? | Mario Vicedomini",
+    "description": "Descubre con Nosotros Cuánto Factura una Pizzería y su Rentabilidad por Hora ✅Mejora los Turnos y Aumenta los Beneficios ☎️641419892",
+    "lang": "es",
+    "charset": true,
+    "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+    "canonical": "https://vicedomini.es/2025/10/22/cuanto-factura-pizzeria/",
+    "h1": [
+     "Rentabilidad por Hora: Cuánto Debería Facturar una Pizzería por Cada Turno"
+    ],
+    "saltos": [],
+    "palabras": 914,
+    "pct_negrita": 26.8,
+    "h2_total": 5,
+    "h2_directas": 3,
+    "preguntas": 1,
+    "tablas": 0,
+    "imagenes": [
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro-300x196.png",
+      "alt": "logo grande",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2025/10/IMG_5172-1-1024x683.jpeg",
+      "alt": "pizza rentable personal",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2025/10/IMG_5175-1024x683.jpeg",
+      "alt": "genancias pizza",
+      "sin_alt": false,
+      "decorativa": false
+     },
+     {
+      "src": "https://vicedomini.es/wp-content/uploads/2022/08/vicedomini-logo-fondo-negro3.png",
+      "alt": "logo blanco 3",
+      "sin_alt": false,
+      "decorativa": false
+     }
+    ],
+    "mixto": [],
+    "enlaces_internos": [
+     "https://vicedomini.es/",
+     "https://vicedomini.es/pizza-eventos/",
+     "https://vicedomini.es/asesoria-gastronomica-pizzerias/",
+     "https://vicedomini.es/curso-pizzero-profesional-madrid/",
+     "https://vicedomini.es/taller-pizza/",
+     "https://vicedomini.es/sobre-mi/",
+     "https://vicedomini.es/blog/",
+     "https://vicedomini.es/asesor-gastronomico/"
+    ],
+    "enlaces_externos": [
+     "https://instagram.com/mario.vicedomini_pizza?igshid=YmMyMTA2M2Y=",
+     "https://www.tiktok.com/@mariovicedomini_pizza?_t=8XZI8qg4a62&_r=1%20"
+    ],
+    "anclas_genericas": [],
+    "schema_tipos": [
+     "Article",
+     "BreadcrumbList",
+     "EntryPoint",
+     "GeoCoordinates",
+     "ImageObject",
+     "ListItem",
+     "LocalBusiness",
+     "OpeningHoursSpecification",
+     "Organization",
+     "Person",
+     "PostalAddress",
+     "PropertyValueSpecification",
+     "ReadAction",
+     "SearchAction",
+     "WebPage",
+     "WebSite"
+    ],
+    "schema_sameas": true,
+    "schema_errores": 0,
+    "autores": [
+     "admin"
+    ]
+   }
+  ],
+  "imagenes": {
+   "total": 50,
+   "revisadas": 50,
+   "pesadas": [
+    [
+     "https://vicedomini.es/wp-content/uploads/2024/10/921A7426-Editar1-scaled.jpg",
+     838915
+    ],
+    [
+     "https://vicedomini.es/wp-content/uploads/2025/10/cateringpizza-e1669638038691-2-1-1-min-1024x682.png",
+     647992
+    ],
+    [
+     "https://vicedomini.es/wp-content/uploads/2022/11/cateringconentrantes-1-e1669718546985-1024x715.png",
+     950481
+    ],
+    [
+     "https://vicedomini.es/wp-content/uploads/2025/01/Screenshot_20191124-220037-1-1024x1004.png",
+     834071
+    ],
+    [
+     "https://vicedomini.es/wp-content/uploads/2025/01/C52C58BB-AEFD-4A5C-B6FE-3485B39B09A4.jpg",
+     1216381
+    ],
+    [
+     "https://vicedomini.es/wp-content/uploads/2026/09/IMG_4493-scaled.webp",
+     1120728
+    ],
+    [
+     "https://vicedomini.es/wp-content/uploads/2026/09/IMG_7339-scaled.webp",
+     1081284
+    ],
+    [
+     "https://vicedomini.es/wp-content/uploads/2026/09/AC018CE9-2AF2-4483-B322-AE9ECAB24D30-scaled.webp",
+     612796
+    ]
+   ],
+   "formatos": {
+    "png": 5,
+    "jpg": 25,
+    "svg": 2,
+    "jpeg": 10,
+    "webp": 8
+   }
+  },
+  "enlaces": {
+   "revisados": 18,
+   "rotos": []
+  },
+  "seranking": {
+   "disponible": true,
+   "audit_id": 6328991,
+   "url": "vicedomini.es",
+   "fecha": "",
+   "otras_auditorias": 0,
+   "puntuacion": null,
+   "errores": 14,
+   "avisos": 192,
+   "info": 59,
+   "paginas": 51,
+   "problemas": [
+    {
+     "codigo": "http4xx",
+     "nombre": "Códigos de estado HTTP 4XX",
+     "estado": "error",
+     "valor": 1,
+     "seccion": "Código de estado HTTP"
+    },
+    {
+     "codigo": "title_duplicate",
+     "nombre": "URL con títulos de página duplicados",
+     "estado": "error",
+     "valor": 2,
+     "seccion": "Título"
+    },
+    {
+     "codigo": "title_long",
+     "nombre": "Title demasiado larga",
+     "estado": "warning",
+     "valor": 1,
+     "seccion": "Título"
+    },
+    {
+     "codigo": "description_missing",
+     "nombre": "Falta la Descripción",
+     "estado": "warning",
+     "valor": 7,
+     "seccion": "Descripción"
+    },
+    {
+     "codigo": "loading_speed",
+     "nombre": "Velocidad de carga de la página lenta",
+     "estado": "error",
+     "valor": 1,
+     "seccion": "Velocidad del sitio web"
+    },
+    {
+     "codigo": "h1_duplicate",
+     "nombre": "H1 duplicado",
+     "estado": "warning",
+     "valor": 10,
+     "seccion": "Contenido del texto"
+    },
+    {
+     "codigo": "no_inlinks",
+     "nombre": "Sin enlaces entrantes",
+     "estado": "error",
+     "valor": 4,
+     "seccion": "Enlaces internos"
+    },
+    {
+     "codigo": "image_big",
+     "nombre": "Imagen demasiado grande",
+     "estado": "error",
+     "valor": 6,
+     "seccion": "Imágenes"
+    },
+    {
+     "codigo": "js_not_cached",
+     "nombre": "JavaScript no almacenado en caché",
+     "estado": "warning",
+     "valor": 1,
+     "seccion": "JavaScript"
+    },
+    {
+     "codigo": "js_not_min",
+     "nombre": "JavaScript no minificado",
+     "estado": "warning",
+     "valor": 46,
+     "seccion": "JavaScript"
+    },
+    {
+     "codigo": "css_uncompressed",
+     "nombre": "CSS sin comprimir",
+     "estado": "warning",
+     "valor": 36,
+     "seccion": "CSS"
+    },
+    {
+     "codigo": "css_not_min",
+     "nombre": "CSS no minificado",
+     "estado": "warning",
+     "valor": 47,
+     "seccion": "CSS"
+    },
+    {
+     "codigo": "html_ratio",
+     "nombre": "Proporción mínima de texto a HTML",
+     "estado": "warning",
+     "valor": 43,
+     "seccion": "Optimización móvil"
+    },
+    {
+     "codigo": "lighthouse_speed_index",
+     "nombre": "Speed index",
+     "estado": "warning",
+     "valor": 1,
+     "seccion": "Rendimiento"
+    }
+   ]
+  }
+ },
+ "informe": {
+  "dominio": "vicedomini.es",
+  "fecha": "06/11/2026",
+  "cliente": "vicedomini.es",
+  "fuente_urls": "sitemap (https://vicedomini.es/sitemap_index.xml)",
+  "indicadores": [
+   {
+    "nombre": "Desarrollo Web",
+    "estado": "correcto",
+    "etiqueta": "Correcto",
+    "texto": "Base técnica sólida, responsive y segura."
+   },
+   {
+    "nombre": "SEO On-Page",
+    "estado": "advertencia",
+    "etiqueta": "Advertencia",
+    "texto": "Revisar: jerarquía de encabezados, imágenes, longitud del texto."
+   },
+   {
+    "nombre": "Preparación GEO",
+    "estado": "advertencia",
+    "etiqueta": "Advertencia",
+    "texto": "Revisar: FAQ, tablas de datos, autoría."
+   },
+   {
+    "nombre": "Rastreo completo",
+    "estado": "error",
+    "etiqueta": "Crítico",
+    "texto": "Corregir: Errores del rastreo completo, Imagen demasiado grande, Sin enlaces entrantes."
+   }
+  ],
+  "secciones": [
+   {
+    "titulo": "1. Infraestructura y Desarrollo Web",
+    "intro": "Análisis de la base arquitectónica, seguridad, directivas de rastreo e indexabilidad técnica del sitio.",
+    "filas": [
+     {
+      "elemento": "Certificado SSL & HTTPS",
+      "estado": "correcto",
+      "hallazgo": "Certificado válido (caduca en 52 días). HTTPS activo en todo el dominio y sin contenido mixto. HSTS activo.",
+      "accion": "Mantener la renovación automática."
+     },
+     {
+      "elemento": "Archivo robots.txt & Rastreadores IA",
+      "estado": "correcto",
+      "hallazgo": "Permite Googlebot y los principales bots de IA (GPTBot, ClaudeBot, PerplexityBot, Google-Extended).",
+      "accion": "Revisar el archivo tras cambios de plugins o de servidor."
+     },
+     {
+      "elemento": "Diseño Adaptativo (Responsive)",
+      "estado": "correcto",
+      "hallazgo": "Viewport correctamente declarado en todas las páginas analizadas.",
+      "accion": "Revisar periódicamente la experiencia en móvil y la velocidad de carga."
+     },
+     {
+      "elemento": "Metadatos Técnicos & Canonical",
+      "estado": "correcto",
+      "hallazgo": "Etiquetas canonical autorreferenciadas en todas las URL principales.",
+      "accion": "Verificar la coherencia tras futuras migraciones o cambios de URL."
+     },
+     {
+      "elemento": "Etiquetas de Idioma y Charset",
+      "estado": "correcto",
+      "hallazgo": "Idioma declarado (es) y charset presente en todas las páginas.",
+      "accion": "Mantener la configuración en nuevas plantillas."
+     }
+    ]
+   },
+   {
+    "titulo": "2. Optimización para Motores Tradicionales (SEO On-Page)",
+    "intro": "Evaluación de la jerarquía textual, metatags de posicionamiento, enlazado y recursos multimedia.",
+    "filas": [
+     {
+      "elemento": "Encabezado Principal (H1)",
+      "estado": "correcto",
+      "hallazgo": "Las 8 páginas tienen un único H1.",
+      "accion": "Mantener un H1 por página al crear contenido nuevo."
+     },
+     {
+      "elemento": "Estructura Jerárquica (H2 - H6)",
+      "estado": "advertencia",
+      "hallazgo": "Saltos de nivel en /curso-pizzero-profesional-madrid/ (H1→H3).",
+      "accion": "Ordenar los encabezados H1 > H2 > H3 sin omitir niveles."
+     },
+     {
+      "elemento": "Optimización de Imágenes",
+      "estado": "advertencia",
+      "hallazgo": "122 imágenes en 8 páginas. 3 con alt vacío (correcto si son decorativas). 8 pesan más de 400 KB. 16% en WebP/AVIF.",
+      "accion": "Comprimir las imágenes pesadas. Pasar a WebP o AVIF."
+     },
+     {
+      "elemento": "Longitud y Profundidad del Texto",
+      "estado": "advertencia",
+      "hallazgo": "Entre 266 y 1556 palabras por página. Menos de 300 en /sobre-mi/.",
+      "accion": "Ampliar esas páginas con contenido útil y original."
+     },
+     {
+      "elemento": "Uso de Negritas y Escaneabilidad",
+      "estado": "advertencia",
+      "hallazgo": "Exceso de negrita (más del 15% del texto) en /curso-pizzero-profesional-madrid/, /taller-pizza/, /sobre-mi/ y 1 más.",
+      "accion": "Reservar la negrita para conceptos clave, no para frases enteras."
+     },
+     {
+      "elemento": "Enlazado Interno y Externo",
+      "estado": "advertencia",
+      "hallazgo": "Anchors genéricos: \"Ver más\".",
+      "accion": "Usar textos ancla descriptivos."
+     },
+     {
+      "elemento": "Metatags (Title & Meta Description)",
+      "estado": "advertencia",
+      "hallazgo": "Title de más de 60 caracteres en /curso-pizzero-profesional-madrid/.",
+      "accion": "Redactar titles únicos (<60 car.) y descriptions orientadas al clic (<155 car.)."
+     }
+    ]
+   },
+   {
+    "titulo": "3. Optimización para Motores Generativos e IA (GEO)",
+    "intro": "Comprobación de la citabilidad, datos estructurados y preparación semántica para modelos como ChatGPT, Perplexity y Gemini.",
+    "filas": [
+     {
+      "elemento": "Datos Estructurados (Schema.org)",
+      "estado": "correcto",
+      "hallazgo": "JSON-LD detectado: Organization, LocalBusiness, WebSite, WebPage, BreadcrumbList, Article, Person.",
+      "accion": "Valorar Schema Service o Product en las páginas comerciales."
+     },
+     {
+      "elemento": "Módulo de Preguntas Frecuentes (FAQ)",
+      "estado": "advertencia",
+      "hallazgo": "7 preguntas en el texto sin marcado FAQPage.",
+      "accion": "Implementar Schema FAQPage y redactar respuestas directas de 40-50 palabras."
+     },
+     {
+      "elemento": "Formato de Respuesta Directa (AEO)",
+      "estado": "correcto",
+      "hallazgo": "El 52% de los H2 empieza con un párrafo breve de respuesta (estimación automática).",
+      "accion": "Mantener el formato en contenidos nuevos."
+     },
+     {
+      "elemento": "Tablas de Datos y Comparativas",
+      "estado": "advertencia",
+      "hallazgo": "No hay tablas HTML en las páginas analizadas.",
+      "accion": "Presentar precios, formatos y especificaciones en tablas HTML para que los LLMs extraigan los datos."
+     },
+     {
+      "elemento": "Claridad de Autoría y E-E-A-T",
+      "estado": "advertencia",
+      "hallazgo": "Contenido firmado genéricamente como \"admin\".",
+      "accion": "Crear perfiles de autor verificables con biografía y enlaces profesionales."
+     }
+    ]
+   },
+   {
+    "titulo": "4. Rastreo Completo del Sitio (SE Ranking)",
+    "intro": "Rastreo completo de vicedomini.es realizado por SE Ranking el  (51 páginas analizadas). Se muestran los problemas más numerosos.",
+    "filas": [
+     {
+      "elemento": "Errores del rastreo completo",
+      "estado": "error",
+      "hallazgo": "14 errores y 192 avisos detectados.",
+      "accion": "Priorizar los errores sobre los avisos."
+     },
+     {
+      "elemento": "Imagen demasiado grande",
+      "estado": "error",
+      "hallazgo": "6 casos detectados (Imágenes).",
+      "accion": "Revisar en SE Ranking las URLs afectadas y corregirlas."
+     },
+     {
+      "elemento": "Sin enlaces entrantes",
+      "estado": "error",
+      "hallazgo": "4 casos detectados (Enlaces internos).",
+      "accion": "Enlazar estas páginas desde otras páginas relacionadas del sitio."
+     },
+     {
+      "elemento": "URL con títulos de página duplicados",
+      "estado": "error",
+      "hallazgo": "2 casos detectados (Título).",
+      "accion": "Escribir un title único y descriptivo de entre 30 y 60 caracteres."
+     },
+     {
+      "elemento": "Códigos de estado HTTP 4XX",
+      "estado": "error",
+      "hallazgo": "1 caso detectado (Código de estado HTTP).",
+      "accion": "Corregir o redirigir (301) las URLs rotas y actualizar los enlaces que apuntan a ellas."
+     },
+     {
+      "elemento": "Velocidad de carga de la página lenta",
+      "estado": "error",
+      "hallazgo": "1 caso detectado (Velocidad del sitio web).",
+      "accion": "Optimizar imágenes, caché y recursos para reducir el tiempo de carga."
+     },
+     {
+      "elemento": "CSS no minificado",
+      "estado": "advertencia",
+      "hallazgo": "47 casos detectados (CSS).",
+      "accion": "Minificar, comprimir y cachear los archivos CSS (plugin de caché o servidor)."
+     },
+     {
+      "elemento": "JavaScript no minificado",
+      "estado": "advertencia",
+      "hallazgo": "46 casos detectados (JavaScript).",
+      "accion": "Minificar, combinar y cachear los archivos JavaScript (plugin de caché o servidor)."
+     },
+     {
+      "elemento": "Proporción mínima de texto a HTML",
+      "estado": "advertencia",
+      "hallazgo": "43 casos detectados (Optimización móvil).",
+      "accion": "Ampliar el contenido textual útil de las páginas."
+     }
+    ]
+   }
+  ],
+  "urls": [
+   {
+    "path": "/",
+    "nombre": "Página de Inicio",
+    "estado": "atencion",
+    "hallazgo": "Preguntas sin Schema FAQPage.",
+    "accion": "Marcar las preguntas con FAQPage."
+   },
+   {
+    "path": "/pizza-eventos/",
+    "nombre": "Pizza para Eventos",
+    "estado": "atencion",
+    "hallazgo": "Preguntas sin Schema FAQPage.",
+    "accion": "Marcar las preguntas con FAQPage."
+   },
+   {
+    "path": "/asesoria-gastronomica-pizzerias/",
+    "nombre": "Asesor Gastronómico en Madrid",
+    "estado": "atencion",
+    "hallazgo": "Preguntas sin Schema FAQPage.",
+    "accion": "Marcar las preguntas con FAQPage."
+   },
+   {
+    "path": "/curso-pizzero-profesional-madrid/",
+    "nombre": "Curso de Pizzero Profesional en Madrid",
+    "estado": "atencion",
+    "hallazgo": "Title de 62 caracteres. Salto jerárquico (H1→H3). Preguntas sin Schema FAQPage.",
+    "accion": "Acortar el title a menos de 60 caracteres. Reestructurar los encabezados sin saltar niveles. Marcar las preguntas con FAQPage."
+   },
+   {
+    "path": "/taller-pizza/",
+    "nombre": "Taller de la Pizza en Madrid",
+    "estado": "correcto",
+    "hallazgo": "H1 único, metadatos correctos y Schema presente (14 tipos).",
+    "accion": "Sin cambios necesarios."
+   },
+   {
+    "path": "/sobre-mi/",
+    "nombre": "Sobre Mí: Chef de Pizzas",
+    "estado": "atencion",
+    "hallazgo": "Solo 266 palabras.",
+    "accion": "Ampliar el contenido."
+   },
+   {
+    "path": "/blog/",
+    "nombre": "Blog Mario Vicedomini",
+    "estado": "atencion",
+    "hallazgo": "Preguntas sin Schema FAQPage.",
+    "accion": "Marcar las preguntas con FAQPage."
+   },
+   {
+    "path": "/2025/10/22/cuanto-factura-pizzeria/",
+    "nombre": "¿Cuánto Factura una Pizzería?",
+    "estado": "atencion",
+    "hallazgo": "Firmado como \"admin\" sin ficha de autor. Preguntas sin Schema FAQPage.",
+    "accion": "Asignar un autor real con foto y biografía. Marcar las preguntas con FAQPage."
+   }
+  ]
+ }
+}

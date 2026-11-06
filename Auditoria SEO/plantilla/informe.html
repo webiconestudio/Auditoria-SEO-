@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Informe de Auditoría Técnica, SEO y GEO — {{ d.dominio }}</title>
+<style>
+  @page {
+    size: A4;
+    margin: 16mm 15mm 18mm 15mm;
+    @bottom-left { content: "Auditoría Técnica, SEO y GEO — {{ d.dominio }}"; font: 8pt "Segoe UI", Roboto, Arial, sans-serif; color: #64748b; border-top: 0.5pt solid #e2e8f0; vertical-align: top; padding-top: 6pt; }
+    @bottom-right { content: "Página " counter(page) " de " counter(pages); font: 8pt "Segoe UI", Roboto, Arial, sans-serif; color: #64748b; border-top: 0.5pt solid #e2e8f0; vertical-align: top; padding-top: 6pt; }
+  }
+  :root { --azul: #0284c7; --texto: #1e293b; --gris: #64748b; --linea: #e2e8f0; --fondo: #f8fafc; }
+  * { box-sizing: border-box; }
+  body { font-family: "Segoe UI", Roboto, Arial, sans-serif; color: var(--texto); font-size: 8.6pt; line-height: 1.45; margin: 0; }
+  .cabecera { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 1px solid #cbd5e1; padding-bottom: 8pt; margin-bottom: 12pt; }
+  .antetitulo { color: var(--azul); font-size: 7.5pt; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; }
+  h1 { font-size: 17pt; margin: 2pt 0 0; color: #0f172a; letter-spacing: -.01em; }
+  .meta { text-align: right; font-size: 7.6pt; line-height: 1.6; }
+  .meta b { color: #0f172a; }
+  .kpis { display: flex; border: 1px solid var(--linea); border-radius: 6pt; margin-bottom: 10pt; }
+  .kpi { flex: 1; padding: 9pt 10pt; border-right: 1px solid var(--linea); }
+  .kpi:last-child { border-right: 0; }
+  .kpi .lbl { font-size: 6.8pt; font-weight: 700; color: var(--gris); text-transform: uppercase; letter-spacing: .03em; }
+  .kpi .val { font-size: 12.5pt; font-weight: 700; margin: 3pt 0 2pt; }
+  .kpi .txt { font-size: 7pt; color: #475569; line-height: 1.35; }
+  .c-correcto { color: #16a34a; } .c-advertencia { color: #f59e0b; } .c-error { color: #ef4444; } .c-no_verificado { color: #64748b; }
+  .leyenda { display: flex; align-items: center; gap: 14pt; background: var(--fondo); border: 1px solid var(--linea); border-radius: 6pt; padding: 7pt 10pt; margin-bottom: 14pt; font-size: 7pt; }
+  .leyenda b { font-size: 7pt; width: 62pt; }
+  .leyenda span { display: flex; align-items: center; gap: 5pt; flex: 1; }
+  .punto { width: 5pt; height: 5pt; border-radius: 50%; display: inline-block; flex: none; }
+  .p-correcto { background: #16a34a; } .p-advertencia { background: #f59e0b; } .p-error { background: #ef4444; } .p-no_verificado { background: #94a3b8; }
+  h2 { font-size: 11.5pt; color: #0f172a; margin: 14pt 0 3pt; padding-bottom: 3pt; border-bottom: 1.2pt solid var(--azul); break-after: avoid; }
+  .intro { font-size: 7.8pt; margin: 0 0 6pt; color: #334155; break-after: avoid; }
+  table { width: 100%; border-collapse: collapse; }
+  thead { display: table-header-group; }
+  th { background: #f1f5f9; text-align: left; font-size: 7.6pt; font-weight: 700; padding: 6pt 8pt; color: #0f172a; border-top: 1px solid var(--linea); border-bottom: 1px solid var(--linea); }
+  td { padding: 7pt 8pt; vertical-align: top; border-bottom: 1px solid var(--linea); font-size: 7.8pt; }
+  tr { break-inside: avoid; }
+  tbody tr:nth-child(even) td { background: #fafbfc; }
+  .badge { display: inline-flex; align-items: center; gap: 4pt; padding: 2pt 6pt; border-radius: 3pt; font-size: 6.6pt; font-weight: 700; letter-spacing: .03em; text-transform: uppercase; white-space: nowrap; border: 1px solid; }
+  .b-correcto { background: #ecfdf5; color: #047857; border-color: #a7f3d0; }
+  .b-advertencia, .b-atencion { background: #fffbeb; color: #b45309; border-color: #fde68a; }
+  .b-error, .b-critico { background: #fef2f2; color: #b91c1c; border-color: #fecaca; }
+  .b-no_verificado { background: #f1f5f9; color: #475569; border-color: #cbd5e1; }
+  .ruta { font-weight: 700; color: #0f172a; word-break: break-all; }
+  .sub { font-size: 7pt; color: var(--gris); }
+  .nota { font-size: 7pt; color: var(--gris); margin-top: 6pt; }
+  .estado { text-align: center; }
+</style>
+</head>
+<body>
+  <div class="cabecera">
+    <div>
+      <div class="antetitulo">Informe de auditoría integral</div>
+      <h1>Auditoría Técnica, SEO On-Page y GEO</h1>
+    </div>
+    <div class="meta">
+      <div><b>Dominio auditado:</b> {{ d.dominio }}</div>
+      <div><b>Fecha:</b> {{ d.fecha }}</div>
+      <div><b>Preparado para:</b> {{ d.cliente }}</div>
+    </div>
+  </div>
+
+  <div class="kpis">
+    {% for k in d.indicadores %}
+    <div class="kpi">
+      <div class="lbl">{{ k.nombre }}</div>
+      <div class="val c-{{ k.estado }}">{{ k.etiqueta }}</div>
+      <div class="txt">{{ k.texto }}</div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="leyenda">
+    <b>Sistema de Calificación:</b>
+    <span><i class="punto p-correcto"></i>Correcto (Cumple los estándares)</span>
+    <span><i class="punto p-advertencia"></i>Advertencia (Oportunidad de mejora)</span>
+    <span><i class="punto p-error"></i>Error crítico (Impacto negativo directo)</span>
+  </div>
+
+  {% set etiquetas = {"correcto": "Correcto", "advertencia": "Advertencia", "error": "Error", "no_verificado": "No verificado",
+                      "critico": "Crítico", "atencion": "Atención"} %}
+
+  {% for s in d.secciones %}
+  <h2>{{ s.titulo }}</h2>
+  <p class="intro">{{ s.intro }}</p>
+  <table>
+    <colgroup><col style="width:24%"><col style="width:16%"><col style="width:31%"><col style="width:29%"></colgroup>
+    <thead><tr><th>Elemento Analizado</th><th class="estado">Estado</th><th>Hallazgo Detectado</th><th>Acción Recomendada</th></tr></thead>
+    <tbody>
+    {% for f in s.filas %}
+      <tr>
+        <td>{{ f.elemento }}</td>
+        <td class="estado"><span class="badge b-{{ f.estado }}"><i class="punto p-{{ f.estado }}"></i>{{ etiquetas[f.estado] }}</span></td>
+        <td>{{ f.hallazgo }}</td>
+        <td>{{ f.accion }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  {% endfor %}
+
+  <h2>4. Desglose Técnico en las {{ d.urls|length }} URLs Principales</h2>
+  <p class="intro">Detalle específico de incidencias a corregir en las páginas prioritarias de la web, con intervenciones exactas por URL.</p>
+  <table>
+    <colgroup><col style="width:25%"><col style="width:14%"><col style="width:32%"><col style="width:29%"></colgroup>
+    <thead><tr><th>URL Principal</th><th class="estado">Incidencias</th><th>Errores Concretos Detectados</th><th>Corrección Requerida</th></tr></thead>
+    <tbody>
+    {% for u in d.urls %}
+      {% set color = {"correcto": "correcto", "atencion": "advertencia", "critico": "error"}[u.estado] %}
+      <tr>
+        <td><div class="ruta">{{ u.path }}{% if u.path == "/" %} (Home){% endif %}</div><div class="sub">{{ u.nombre }}</div></td>
+        <td class="estado"><span class="badge b-{{ u.estado }}"><i class="punto p-{{ color }}"></i>{{ etiquetas[u.estado] }}</span></td>
+        <td>{{ u.hallazgo }}</td>
+        <td>{{ u.accion }}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  <p class="nota">Páginas seleccionadas a partir del {{ d.fuente_urls }}, excluyendo páginas sin indexar, legales, carrito y cuenta de usuario.</p>
+</body>
+</html>
