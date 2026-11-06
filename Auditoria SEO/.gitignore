@@ -1,0 +1,13 @@
+# Entornos virtuales y dependencias
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Archivos comprimidos, temporales o de datos generados
+*.zip
+*.pdf
+*.log
+
+# Archivos de configuración local o secretos
+.env
